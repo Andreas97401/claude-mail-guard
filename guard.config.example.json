@@ -1,0 +1,6 @@
+{
+  "trustedHosts": ["mail.google.com", "accounts.google.com", "outlook.office.com", "localhost", "127.0.0.1"],
+  "trustedSshHosts": [],
+  "mailCommands": [],
+  "mailFiles": []
+}

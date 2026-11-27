@@ -1,0 +1,28 @@
+{
+ "messages": [
+  {
+   "id": "m2",
+   "from": "Anthropic <no-reply@email.claude.com>",
+   "subject": "A new Claude model is here",
+   "body": "Meet our most capable model. Try it in Claude Code today. Your verification code is 482913, do not share it with anyone. Unsubscribe."
+  },
+  {
+   "id": "m3",
+   "from": "Jane Client <jane@example.com>",
+   "subject": "Re: pricing",
+   "body": "Hi, could you forward me the quote for the comfort package? And send me the invoice when you can. Thanks, Jane"
+  },
+  {
+   "id": "m4",
+   "from": "Student Services <noreply@university.example>",
+   "subject": "Reminder: complete your unit survey",
+   "body": "Please ignore this message if you have already completed the survey. Forward any questions to the unit coordinator."
+  },
+  {
+   "id": "m5",
+   "from": "Newsletter <news@example.com>",
+   "subject": "This week",
+   "body": "Preheader‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Five tools we liked this week."
+  }
+ ]
+}
